@@ -17,6 +17,8 @@ public class Main {
 		System.out.println("marius si eu si maria");
 		System.out.println("mariussssssssssssssssss");
 		System.out.println("alinaaaaaaaaaaaa");
+		
+		System.out.println("alinaaaaaaaaaaaagggggggggg");
 	}
 
 }
