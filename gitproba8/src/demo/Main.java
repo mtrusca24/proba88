@@ -15,7 +15,7 @@ public class Main {
 	public static void  metoda2() {
 		System.out.println("sunt in metoda din clasa main");
 		System.out.println("marius si eu si maria");
-		
+		System.out.println("mariussssssssssssssssss");
 	}
 
 }
