@@ -18,7 +18,7 @@ public class Main {
 		System.out.println("mariussssssssssssssssss");
 		System.out.println("alinaaaaaaaaaaaa");
 		
-		System.out.println("alinaaaaaaaaaaaaggggggggggdddddddddddKKKKKKKKKKKKKKKKaaaaaaa");
+		System.out.println("alinaaaaaaaaaaaaggggggggggdddddddddddKKKKKKKKKKKKKKKKaaaaaaayyyyyyyyyyyyyyyy");
 	}
 
 }
